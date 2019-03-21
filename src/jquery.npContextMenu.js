@@ -1,5 +1,6 @@
 /*!
  * npContextMenu - v0.1.1 - 2018-10-18
+ * https://github.com/alpenzoo/npContextMenu
  *
  * Copyright (c) 2018 Narcis Iulian Paun
  * Licensed under the MIT license.
